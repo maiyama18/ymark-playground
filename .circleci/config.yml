@@ -55,14 +55,10 @@ workflows:
   ci:
     jobs:
       - frontend-test:
-          requires:
-            - functions-test
           filters:
             branches:
               ignore: master
       - frontend-deploy:
-          requires:
-            - functions-deploy
           filters:
             branches:
               only: master
