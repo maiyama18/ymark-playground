@@ -9148,7 +9148,7 @@ yargs@~3.10.0:
     decamelize "^1.0.0"
     window-size "0.1.0"
 
-ymark@^0.9.0:
-  version "0.9.0"
-  resolved "https://registry.yarnpkg.com/ymark/-/ymark-0.9.0.tgz#d59be08f504ded897a445e89c5376c8af8744eca"
-  integrity sha512-7sYiQtYbqgdFzSkJ1PJ2xJ9hQ/rTbemyOwNu6GYA/nsu2pwyT/UbxSlWdX6hWtRdGJgDCIaQYuRV1J0TUpxoPA==
+ymark@^0.9.2:
+  version "0.9.2"
+  resolved "https://registry.yarnpkg.com/ymark/-/ymark-0.9.2.tgz#de79b0dbb874a03e10f26de54668c80a9ae43e3d"
+  integrity sha512-vR+tw7p1QE+CIotR+mblf3fJxRMXhxgX8/vBo1MYhf2+9x7Ptsa71oeUgpQP8RnoVHPUVpmHjmEI13KS9JcSgA==
