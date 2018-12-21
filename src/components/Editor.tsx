@@ -18,7 +18,7 @@ const EditorPresentation = (props: Props) => (
     <TextArea
       value={props.inputMd}
       onChange={(e: any) => props.changeInputMd(e.target.value)}
-      rows={12}
+      rows={20}
     />
   </Form>
 );
